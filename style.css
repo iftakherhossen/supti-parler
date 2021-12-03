@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@900&display=swap');
+body {
+    font-family: 'Zen Old Mincho', serif;
+}
+
+nav a {
+    font-size: 18px;
+    border-bottom: 3px solid transparent;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: green !important;
+    border-bottom: 4px solid green;
+}
